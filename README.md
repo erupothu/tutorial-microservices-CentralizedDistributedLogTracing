@@ -9,7 +9,7 @@ https://search.maven.org/remote_content?g=io.zipkin.java&a=zipkin-server&v=LATES
 
 will run on http://127.0.0.1:9411/
 
-Add zipkin dependencies in pom.xml<br>
+Add zipkin dependencies in pom.xml both student and book services <br>
 spring-cloud-starter-sleuth (for tracing with Application_Name + Traceid + spanID + ZipkinExportFlag for each microservices)<br>
 spring-cloud-starter-zipkin ( for centralised log view in Zipkins)
 
