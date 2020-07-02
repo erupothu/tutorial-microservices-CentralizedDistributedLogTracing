@@ -2,7 +2,7 @@
 
 
 
-<b>maven repository get the latest zipkin jar.</b>
+<b>maven repository get the latest zipkin jar.</b><br>
 https://search.maven.org/remote_content?g=io.zipkin.java&a=zipkin-server&v=LATEST&c=exec
 
 > java -jar zipkin-server-2.12.9-exec.jar
